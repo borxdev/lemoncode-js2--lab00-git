@@ -42,3 +42,7 @@ Este laboratorio tiene como objetivo que practiques los comandos básicos de Git
     - Haz un merge de la rama "development" a la rama "main".
     - Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
     - Hax un push de los cambios al repositorio en GitHub.
+
+
+
+# Añadiendo cambios en la rama development!
