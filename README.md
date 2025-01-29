@@ -44,5 +44,8 @@ Este laboratorio tiene como objetivo que practiques los comandos básicos de Git
     - Hax un push de los cambios al repositorio en GitHub.
 
 
+---
 
-# Añadiendo cambios en la rama development!
+
+![captura 1](git-bash1.png)
+![captura 2](git-bash2.png)
